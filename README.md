@@ -18,8 +18,8 @@ BoostCPH 云手机套件包含Kbox云手机容器、指令流引擎、视频流�
 
 | 特性名称      | 特性介绍                                                     | 仓库地址                          |
 | ------------- | ------------------------------------------------------------ | --------------------------------- |
-| Kbox云手机    | Kbox云手机容器是鲲鹏BoostKit云手机Turbo套件的重要组成部分，是实现Android应用运行的基础软件。它将AOSP 系统直接运行在容器内，实现GPS、加速度传感器、陀螺仪、IMEI、Wi-Fi等外设硬件的数据Mock功能，以及Gralloc&HWComposor模块，确保AOSP系统可以正常启动运行。 | https://gitcode.com/boostkit/Kbox-patches|
-| vmi视频流引擎 | 端云协同引擎 顾名思义可以分为端侧和云侧两个部分：云侧运行于服务器上；端侧一般为云手机APK，可以被安装在用户的Android手机上，用于和云侧进行交互，进而对Kbox容器进行正常的操作。 | https://gitcode.com/boostkit/vmi  |
+| Kbox云手机    | Kbox云手机容器是鲲鹏BoostKit云手机Turbo套件的重要组成部分，是实现Android应用运行的基础软件。它将AOSP 系统直接运行在容器内，实现GPS、加速度传感器、陀螺仪、IMEI、Wi-Fi等外设硬件的数据Mock功能，以及Gralloc&HWComposor模块，确保AOSP系统可以正常启动运行。 | [Kbox-patches](https://gitcode.com/boostkit/Kbox-patches)|
+| vmi视频流引擎 | 端云协同引擎 顾名思义可以分为端侧和云侧两个部分：云侧运行于服务器上；端侧一般为云手机APK，可以被安装在用户的Android手机上，用于和云侧进行交互，进而对Kbox容器进行正常的操作。 | [vmi](https://gitcode.com/boostkit/vmi)  |
 
 # 关于社区
 
